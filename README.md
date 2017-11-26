@@ -1,2 +1,6 @@
 # HomeWork-3A
 Rhoda’s Strikeforce Gym
+this program is meant to output a menu with such said output (for example a gold silver and bronze membership fee with the exceptence of entering a one, two, three, or zero to quit)
+that is the usage of the program but...
+the way the program works is you enter a one it gives you a... i cant remmember if its a gold or bronze membership but then i guess you enter a price and then it outputs the amout of money you have to pay times ten it might possible be in a loop
+all i know is that it is supposed to run i think but if you find any bugs let me know...
